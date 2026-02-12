@@ -56,16 +56,41 @@ Currently working on small-to-mid scale indie projects.
 
 ### 🚀 Highlight Projects
 - **Bubble Bomb**  
+  <p align="center">
+  <img src="images/สกรีนช็อต 2026-02-12 185813.png" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/สกรีนช็อต 2026-02-12 191608.png" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Bubble Bomb Gif.gif" height="180"/>
+  </p>
+  <p>
+    🔗 Repo: <a href="https://github.com/MaFIaTH/Bubble">View Repository</a>
+  </p>
+  <p>
+    🔗 Itch: <a href="https://github.com/MaFIaTH/Bubble">View Itch.io Page</a>
+  </p>
   
-  🔗 Repo: link
 
 - **Around The Lighthouse**  
+
+  <p>
+    🔗 Repo: <a href="https://github.com/Quack-Up-Game-Studio/Around-the-Lighthouse--Thesis-">View Repository</a>/b
+  </p>
+  <p>
+    🔗 Itch: <a href="https://madduck-games-studio.itch.io/around-the-lighthouse">View Itch.io Page</a>
+  </p>
   
-  🔗 Repo: link
+  
 
 - **Flora Flower Garden**  
+  <p>
+    🔗 Repo: <a href="https://github.com/chain3132/Flora-Flower-Garden">View Repository</a>
+  </p>
+  <p>
+    🔗 Itch: <a href="https://tunasan.itch.io/flora">View Itch.io Page</a>
+  </p>
   
-  🔗 Repo: link
+  
 
 ## 🧠 How I Work
 
