@@ -1,4 +1,4 @@
-🎮 Solo Game Developer (Unity)
+## 🎮 Solo Game Developer (Unity)
 
 Hi, I'm Chaowanut Mukkhunthod you can call me Chain 👋  
 I'm a solo game developer focused on building gameplay systems and technical art in Unity.
@@ -57,11 +57,11 @@ Currently working on small-to-mid scale indie projects.
 ### 🚀 Highlight Projects
 - **Bubble Bomb**  
   <p align="center">
-  <img src="images/สกรีนช็อต 2026-02-12 185813.png" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/สกรีนช็อต 2026-02-12 191608.png" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/Bubble Bomb Gif.gif" height="180"/>
+    <img src="images/สกรีนช็อต 2026-02-12 185813.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/สกรีนช็อต 2026-02-12 191608.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/Bubble Bomb Gif.gif" height="180"/>
   </p>
   <p>
     🔗 Repo: <a href="https://github.com/MaFIaTH/Bubble">View Repository</a>
@@ -73,8 +73,16 @@ Currently working on small-to-mid scale indie projects.
 
 - **Around The Lighthouse**  
 
+  <p align="center">
+    <img src="images/AroundTheLighthouse.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/AroundTheLighthouse_Gameplay1.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/AroundTheLighthouse_Gameplay2.png"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/AroundTheLighthouse_Gameplay3.png" height="180"/>
   <p>
-    🔗 Repo: <a href="https://github.com/Quack-Up-Game-Studio/Around-the-Lighthouse--Thesis-">View Repository</a>/b
+    🔗 Repo: <a href="https://github.com/Quack-Up-Game-Studio/Around-the-Lighthouse--Thesis-">View Repository</a>
   </p>
   <p>
     🔗 Itch: <a href="https://madduck-games-studio.itch.io/around-the-lighthouse">View Itch.io Page</a>
@@ -83,6 +91,13 @@ Currently working on small-to-mid scale indie projects.
   
 
 - **Flora Flower Garden**  
+  <p align="center">
+    <img src="images/floraflowergarden.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/floraflowergardeningame.png" height="180"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/floraflowergardeningame1.png" height="180"/>
+  </p>
   <p>
     🔗 Repo: <a href="https://github.com/chain3132/Flora-Flower-Garden">View Repository</a>
   </p>
