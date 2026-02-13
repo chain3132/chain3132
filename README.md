@@ -24,26 +24,17 @@ Currently working on small-to-mid scale indie projects.
 - Unity (2D / 3D)
 - C# Game Programming
 - Gameplay UI Implementation
-- Mini-game UI 
-- Run-based / Roguelite Systems
 
 ### UI / UX & Animation
-- UI System Design
 - Interactive UI Feedback
 - DOTween
 - PrimeTween
-- State-driven UI
 
 ### Architecture & Tools
 - Dependency Injection (VContainer) (Basic)
 - Odin Inspector
-- Event-driven Systems
 - Modular & Scalable Architecture
 
-### Art & Integration
-- UI Art Integration
-- 2D / 3D Asset Integration
-- Animation & VFX Integration
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=chain3132&theme=shadow_green)
